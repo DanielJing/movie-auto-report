@@ -1,2 +1,2 @@
 # movie-auto-report
-This project attempts to generate autoreport by using *dataprep.eda* and *sweetviz*.
+This project attempts to generate autoreports by using *dataprep.eda* and *sweetviz*.
